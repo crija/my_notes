@@ -5,7 +5,7 @@ Possibilita o desenvolvimento de códigos em parceria com outros colaboradores.
 
 O que é git?
 
-Git é um sistema de versionamento de códigos criado em 2005 e seu principal propósito era guardar alterações feitas nos códigos sem eliminar a versão anterior.
+Git é um sistema de versionamento de códigos criado em 2005 e seu principal propósito era guardar alterações feitas nos códigos sem eliminar as versões anteriores.
 
 Alguns comandos que possuo conhecimento:
 
