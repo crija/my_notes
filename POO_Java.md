@@ -71,9 +71,44 @@ Tamanho do rabo
 						tamanho do rabo = 5cm
 
 
-- Criamos uma classe 'Cachorro', criamos a variável de referência 'cachorro1' para o objeto e em seguida definimos mais uma variável de referência 'cachorro2' para o segundo objeto. Por mais que eles tenham as mesmas características, são objetos distintos. São dois cachorros diferentes com as mesmas características.
+- Criamos uma classe 'Cachorro', criamos a variável de referência 'cachorro1' para o objeto e em seguida definimos mais uma variável de referência 'cachorro2' para o segundo objeto. Por mais que eles tenham as mesmas características, são objetos distintos. São dois cachorros diferentes com as mesmas características
 
-						  
+Herança:
+Usamos herança para os códigos não ficarem repetidos e para não precisarmos reescrever os mesmos métodos em todas as classes.
+Sendo assim, criamos uma classe pai com todos os métodos que quisermos, se precisar criar novas classes com métodos iguais, usamos a herança. Definimos um nome para a nova classe e reunilizamos o código da classe pai para as classes filhas (acrescentando 'extends' na classe pai).
+.exemplo
+
+						Classe Pai
+
+						Animal
+						Nome
+						Cor 
+						Altura
+						Peso
+
+							^
+							|
+							|
+							|
+		^					|                     ^
+		|					                      |
+	Classe Filha	  		Classe Filha		Classe Filha
+	
+	Cachorro				  Passaro           	    Gato
+	Tamanho do rabo			
+
+. Todas as classes filhas podem herdar os métodos da classe pai, se quiser acrescentar atributos a mais em algumas das classes filhas, acrescenta-se ditetamente nelas, assim como no exemplo da classe 'Cachorro'.
+
+														
+
+
+
+
+
+
+
+
+
 
 
 
