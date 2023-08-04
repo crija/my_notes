@@ -122,7 +122,7 @@ Sendo assim, criamos uma classe pai com todos os atributos que quisermos. Na cri
 	Cachorro				Passaro           	    Gato
 	Tamanho do rabo			
 
-- Se for necessário acrescentar um atributo em uma classe específica, acrescenta - se 
+- Se for necessário acrescentar um atributo em uma classe específica, acrescenta - se diretamente na classe desejada.
 
 					
 Polimorfismo
