@@ -100,9 +100,8 @@ tamanho do rabo = 5cm
 
 ### Herança
 
-Usamos herança para os códigos não ficarem repetidos e para não precisarmos reescrever os mesmos métodos em todas as classes.
-Sendo assim, criamos uma classe pai com todos os métodos que quisermos, se precisar criar novas classes com métodos iguais, usamos a herança. Definimos um nome para a nova classe e reunilizamos o código da classe pai para as classes filhas (acrescentando 'extends' na classe pai).
-.exemplo
+Usamos herança para os códigos não ficarem repetidos e para não precisarmos reescrever os mesmos atributos em todas as classes.
+Sendo assim, criamos uma classe pai com todos os atributos que quisermos. Na criação de uma classe filha ela herdará todos os atributos da classe pai.
 
 						Classe Pai
 
@@ -123,7 +122,7 @@ Sendo assim, criamos uma classe pai com todos os métodos que quisermos, se prec
 	Cachorro				Passaro           	    Gato
 	Tamanho do rabo			
 
-. Todas as classes filhas podem herdar os métodos da classe pai, se quiser acrescentar atributos a mais em algumas das classes filhas, acrescenta-se ditetamente nelas, assim como no exemplo da classe 'Cachorro'.
+- Se for necessário acrescentar um atributo em uma classe específica, acrescenta - se 
 
 					
 
