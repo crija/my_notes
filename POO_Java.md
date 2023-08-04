@@ -125,6 +125,40 @@ Sendo assim, criamos uma classe pai com todos os atributos que quisermos. Na cri
 - Se for necessário acrescentar um atributo em uma classe específica, acrescenta - se 
 
 					
+Polimorfismo
+
+É a reescrita de um método herdado de uma classe, sem utilizar nenhum comportamento da classe pai pra esse método
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+														
 
 
 
