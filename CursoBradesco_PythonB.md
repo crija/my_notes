@@ -7,9 +7,13 @@ Identação: A linguagem Python possui identação padronizada.
 Funções: A declaração de uma função é dividida em três partes: nome, parâmetro e corpo.
 
 a = 5
+
 b = 15
+
 c = 20
 
 print(a == b and b > c)
+
 print(a < b or b > c)
+
 print(not a == b)
