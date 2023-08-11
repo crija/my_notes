@@ -27,3 +27,9 @@ create table pessoas (
 );
 ```
 - Obs: O símbolo de ' ; ' determina o fim do comando.
+
+Para ver como funciona a estrutura interna da tabela basta adicionar a baixo da tabela o comando
+``` java
+describe 'nome da tabela'
+```
+
