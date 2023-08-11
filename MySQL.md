@@ -26,4 +26,4 @@ create table pessoas (
     nacionalidade varchar(20)
 );
 ```
-- Obs: O símbolo de ' ; ' determina o fim do programa
+- Obs: O símbolo de ' ; ' determina o fim do comando.
