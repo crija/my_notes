@@ -32,4 +32,36 @@ Para ver como funciona a estrutura interna da tabela basta adicionar a baixo da 
 ``` java
 describe 'nome da tabela'
 ```
+Se preferir rodar direto no terminal, escreva os seguintes comandos:
+
+Para saber quais bancos de dados foram criados
+```
+show detabase;
+```
+Para entrar em um bando de dados criado
+```
+use 'nome do banco';
+```
+Para saber qual banco de dados está aberto
+```
+status;
+```
+Para visualizar as tabelas do banco de dados
+```
+show tables;
+```
+Para visualizar as colunas da tabela acessada
+```
+describe 'nome da tabela'
+```
+Sair do MySQL
+```
+ext
+```
+
+
+
+
+
+
 
