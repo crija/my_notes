@@ -32,8 +32,7 @@ Para ver como funciona a estrutura interna da tabela basta adicionar a baixo da 
 ``` java
 describe 'nome da tabela'
 ```
-Se preferir rodar direto no terminal, escreva os seguintes comandos:
-
+### Se preferir rodar direto no terminal utilize os comandos a seguir
 Para saber quais bancos de dados foram criados
 ```
 show detabase;
@@ -58,6 +57,16 @@ Sair do MySQL
 ```
 ext
 ```
+
+### No MySQL Workbench
+
+Caso queira excruir um banco de dados clique no SQL file e escreva o seguinte comando:
+```
+drop database 'nome do banco que deseja excluir'
+```
+
+
+
 
 
 
