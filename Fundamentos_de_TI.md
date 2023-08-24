@@ -17,10 +17,21 @@ Um sistema computacional é um conjunto de sispositivos elétricos (hardware) ca
 
 O hardware tem um sistema operacional instalado para a sua funcionalidade. O sistema operacional pode ser definido como um conjunto de programas com a funcionalidade de gerenciamento dos recursos o sistema e as informações.
 
-## Componentes e Dispositivos Internos
+## Componentes e Dispositivos
+### Componentes Internos
 - Processador: Representa o cérebro do computador, onde ocorre o processamento de dados.
 - Memória Ram: Responsável por direcionar o processador, enviando as informações nescessárias para que os dados sejam processados.
 - Placas de Vídeos: Para que os monitores sejam conectados na placa mãe, são usados adaptadores de vídeos que digerem quanto a qualidade de imagem, resolução e tipos de conectores utilizados para garantir que a imagem seja projetada.
+- Placa mãe: Componente que conecta todos os componentes internos e externos.
+
+### Componentes Externos
+- Impressoras: Saída de dados.
+- Mause: Torna possível a interação do usuário com a interface.
+- Teclado: Possibilita a comunicação com o computador.
+
+## Sistemas Operacionais
+O sistema operacional representa a parte lógica de um computador, sendo um componete intermediário, permitindo a comunicação de usuário com os demais componentes de hardware. O sistema operacional tem como principal objetivo fornecer uma interface aos uruários, para poderem interagir com as aplicações e os softwares instalados.
+
 
 
 
