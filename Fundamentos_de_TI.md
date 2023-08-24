@@ -33,7 +33,11 @@ O hardware tem um sistema operacional instalado para a sua funcionalidade. O sis
 O sistema operacional representa a parte lógica de um computador, sendo um componete intermediário, permitindo a comunicação de usuário com os demais componentes de hardware. O sistema operacional tem como principal objetivo fornecer uma interface aos uruários, para poderem interagir com as aplicações e os softwares instalados.
 
 ## Prevenção e Segurança
-Saber previnir os principais problemas técnicos relacionados aos componentes internos de um computador, ao sistema operacional e aos hardwares hospedados em sua estrutura, é muito importante. Saber fazer os principais tipos de manutenção e como evitar falhas tecnicas em computadores pessoais e servidores é super importante para manter a qualidade e utilidade da máquina.
+Saber previnir os principais problemas técnicos relacionados aos componentes internos de um computador, ao sistema operacional e aos hardwares hospedados em sua estrutura, é muito importante. Saber fazer os principais tipos de manutenção e como evitar falhas tecnicas em computadores pessoais e servidores é indispensável para manter a qualidade e utilidade da máquina. Quando um equipamento eletrônico desenvolve um problema, o técnico precisa estar apto para diagnosticar e resolver o problema, e ainda impedir que o mesmo problema ocorra futuramente.
+
+### Monitoramento e Manutenção Preventiva
+A manutenção preventiva é uma das principais formas de impedir um problema técnico, podendo ser feita de formas símples, tais como, a limpeza dos componentes internos, verificar se os componentes estão funcionando corretamente também é um boa prática. Esses componentes podem ser verificados com um software que analiza a temperatura, o uso de memória e o espaço no disco.
+
 
 
 
