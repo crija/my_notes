@@ -38,6 +38,12 @@ Saber previnir os principais problemas técnicos relacionados aos componentes in
 ### Monitoramento e Manutenção Preventiva
 A manutenção preventiva é uma das principais formas de impedir um problema técnico, podendo ser feita de formas símples, tais como, a limpeza dos componentes internos, verificar se os componentes estão funcionando corretamente também é um boa prática. Esses componentes podem ser verificados com um software que analiza a temperatura, o uso de memória e o espaço no disco.
 
+## Engenharia Social
+Com a evolução da tecnologia, o perigo do vazamento de dados cresceu de forma contínua. É indispensável saber guardar os dados sensíveis de forma segura, assim evitando que informações importante sejam acessadas por pessoas maliciosas que tem profundo conhecimento em tecnologia, os hackers. Embora existam hackers que usam de sua inteligencia e conhecimento para conseguir informações de forma criminosa, também existe os hackers do bem, que por sua vez tem o trabalho de achar a fraquesa no sistema e corrigilas, impedindo que informações sejam roubadas. Esses profissionais são normalmente contratados por empresas grandes, principalmente bancos, para garantir uma maior segurança pra seus usuários.
+
+### Pilares da Segurança da Informação
+Os principais pilares da Segurança da Informação são: confidencialidade, integridade e disponibilidade. Eles tem como objetivo proteger os dados sensíveis e consequentimente tornando a redes, sites, sistemas... mais seguros.
+
 
 
 
