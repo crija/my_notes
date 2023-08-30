@@ -44,6 +44,8 @@ Com a evolução da tecnologia, o perigo do vazamento de dados cresceu de forma 
 ### Pilares da Segurança da Informação
 Os principais pilares da Segurança da Informação são: confidencialidade, integridade e disponibilidade. Eles tem como objetivo proteger os dados sensíveis e consequentimente tornando as redes, sites, sistemas... mais seguros.
 
+Anotações baseadas no curso: Fundamentos de TI da Fundação Bradesco Escola Virtual
+
 
 
 
