@@ -1,4 +1,4 @@
-## Anotações baseadas no curso de MySQL do Curso Em Vídeo
+## Banco de Dados: MySQL
 Os bancos de dados são construídos da seguinte forma:
 - Banco de dados
 - Tabelas
@@ -64,6 +64,8 @@ Caso queira excruir um banco de dados clique no SQL file e escreva o seguinte co
 ```
 drop database 'nome do banco que deseja excluir'
 ```
+
+Anotações baseadas no curso: MySQL do Curso Em Vídeo
 
 
 
