@@ -45,18 +45,35 @@ while True: # Tipo bool é False ou True. É bastante usado para parar ou contin
 ```
 
 Estrutura Condicional: if, elif, else.
+ex:
 ``` python
+nome = str(input('Seu nome é Guilherme? '))
+if nome == 'sim': # Primeira condição 
+  print('Nome salvo com sucesso!')
+elif nome == '': # Segunda condição. O elif pode ser usado quantas vezes for necessário.
+  print('Ocorreu um erro!')
+else: # Ultima condição.
+  print('É necessário preencher seu nome novamente.')
+```
 
-
-Lista de valores: listas [], dicionário {}, tupla ().
-
-
-
-
-
-
+#### Lista de valores: listas [], dicionário {}, tupla ().
 ``` python
+list = ['Carla', 18, 'brasileira', 'estudante'] # Uma lista pode ser consultada pela posição dos elementos, podendo acrescentar ou remover elementos.
+dict = {'nome': 'Carla', 'idade': 18} # O dicionário pode ser consultado pela chave, assim como a lista o dicionario também é mutável.
+tupla = (1, 45, 23, 56) # Ao contrário da lista e do dicionário as tuplas são IMUTÁVEIS.
+```
 
+### Variável
+Uma variável guarda um tipo de dado.
+ex:
+```python
+carro = 'Veloster' # carro é a variável que está guardando um dado do tipo str.
+print(carro) # Comando para mostrar o que tem guardado na variável.
+```
+
+### Comparações usadas na linguagem
+ex:
+``` python
 a = 5
 b = 15
 c = 20
