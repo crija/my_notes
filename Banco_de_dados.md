@@ -24,9 +24,9 @@ Os relacionamentos de dados entre tabelas podem ser representados de três tipos
 
 Assuntos para pesquisar e entender:
 
-- Relacionar classes usando o id
+Normalização de dados
 
-- Normalização de dados
+Normalizar os dados nada mais é do que transformar os dados para um formato comum e padronizado.
 
 - Formas normais: Buscam garantir a qualidade dos dados
 
