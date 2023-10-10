@@ -36,9 +36,9 @@ Inserindo dados no banco
 
 Para inserir os dados usando o Postgre é preciso escrever o comando " INSART INTO 'Nome da Tabela' "
 
-Assuntos para pesquisar e entender:
+Editando e removendo dados
 
-- Editando e removendo dados
+Para atualizar um dado inserido no banco de dados usamos o comando " UPDATE 'Nome da Tabela = valor' e em seguida filtrar pelo id "where 'id_nome da coluna = numero do id do campo que deseja alterar.
 
 - Permissionamento e views
 
