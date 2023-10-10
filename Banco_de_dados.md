@@ -22,17 +22,21 @@ Os relacionamentos de dados entre tabelas podem ser representados de três tipos
 
 - N N (vários para vários): Usado quando uma tabela vários registros de uma tabela são ligados a vários registros de outra tabela. Ex: Professores  tem vários alunos e alunos tem vários professores. (Tabela Professores) - (Tabela Alunos)
 
-Assuntos para pesquisar e entender:
-
 Normalização de dados
 
 Normalizar os dados nada mais é do que transformar os dados para um formato comum e padronizado.
 
 - Formas normais: Buscam garantir a qualidade dos dados
 
-- Inserindo tabelas no banco
+Inserindo tabelas no banco
 
-- Inserindo dados no banco
+No Postgre é possivel criar uma tabela por meio do comando "CREATE TABLE".
+
+Inserindo dados no banco
+
+Para inserir os dados usando o Postgre é preciso escrever o comando " INSART INTO 'Nome da Tabela' "
+
+Assuntos para pesquisar e entender:
 
 - Editando e removendo dados
 
