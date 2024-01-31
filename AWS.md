@@ -26,3 +26,43 @@ Infraestrutura Global
 . Zonas de Disponibilidade: São os locais onde a AWS concentra os galpões de data centers
 . Pontos de Presenças(Edge Locations): São usados para conectar os usuários finais aos seus serviçoes em nuvem
 
+Modelo de Preço da AWS
+
+Três fatores fundamentais de custo com a AWS
+Computação: Cobrado por hora/ segundo
+            Varia por tipo de instância
+            *apenas no Linux
+
+Armazenamento: Cobrado normalmente por GB
+
+Tranferência de dados: A saída é agregada e cobrada
+                       A entrada não tem cobrança(com algumas exceções)
+                       Cobrado normalmente por GB
+
+Como você paga pega pela AWS?
+. Pagamento conforme o uso
+. Pague menos ao fazer reserva
+. Pague menos ao usar mais
+. Pague menos ao usar mais e à medida que a AWS cresce
+
+Modelos de preçoes personalizados
+. Atenda a necessidades variáveis por maio de preços personalisado
+. Disponiveis para projetos de alto volume com requisitos exclusivos
+
+Se você precisa de um modelo de preço diferente do que a AWS oferece, serão disponibilizados modelos de preçoes personalizados
+
+Custo total de propriedade
+
+Infraestrutura Tradicional(no local)
+. Equipamento
+. Recursos e administração
+. Contratos
+. Custos
+
+Infraestrutura na Nuvem
+. Pague pelo que você usa
+. Melhore o tempo de entrada no mercado e a agilidade
+. Aumente e reduza verticalmente
+. Infraestrutura de autoatendimento
+
+
