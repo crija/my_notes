@@ -18,3 +18,11 @@ Saas - Software como Serviço: Oferece o Sotware completo, você apenar precissa
 
 - Duas caracteristícas principais que definem a computação em nuvem: Auto Serviço sob demanda
                      Pagamento conforme o uso
+
+AWS
+
+Infraestrutura Global
+. Regioes: São áreas geográficas onde a AWS mantem suas zonas de disponibilidades
+. Zonas de Disponibilidade: São os locais onde a AWS concentra os galpões de data centers
+. Pontos de Presenças(Edge Locations): São usados para conectar os usuários finais aos seus serviçoes em nuvem
+
