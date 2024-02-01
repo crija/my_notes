@@ -134,3 +134,60 @@ Categoria de serviço de gerenciamento de custos da AWS
 
 Categoria de gerenciamento e governança
 
+Modelo de Responsabilidade Compartilhada da AWS*
+
+Responsabilidade dos clientes: Os clientes da AWS são responsáveis pelos seus DADOS, IAM(criar senhas fortes), CONFIAGURAÇÃO DO SISMEMA OPERACIONAL e a CRIPTOGRAFIA
+
+Responsabilidades da AWS: A AWS é responsável pola COMPUTAÇÃO, ARMAZENAMENTO, BANCO DE DADOS, NETWORKING, INFRAESTRUTURA GLOBAL, REGIÕES, ZONAS DE DISPONIBILIDADE, LOCAIS DE BORDA
+
+Segurança DA nuvem (Responsabilidade da AWS)
+
+. Segurança física de data centers
+  - Acesso controlado com base na necessidade
+
+. Infraestrutura de hardware e softwer
+  - Desativação de armazenamento, registro em log de acesso ao sistema operacional do host e auditoria
+
+. Infraentrutura de rede
+    - Detecção de intrusão
+
+. Infraestrutura de virtualização
+  - Isolamento de instância
+
+Segurança na nuvem (Responsabilidade do cliente)
+
+. SO de instância do Amazon EC2
+  - Incluindo aplicação de patcher, manutenção
+
+. Aplicativos
+  - Senhas, acesso baseado em função e outros
+
+. Configuração do security group
+
+. Firewalls baseados em host ou no sistema de operação
+  - Incluindo sistemas de prevenção ou tecção de intrusão
+
+. Configurações de rede
+
+. Gerenciamento de contas
+  - configuração de permissão e login para cada usuário
+
+Característica do serviço e responsabilidade de segurança
+
+Exemplo de serviços e responsabilidade de segurança
+
+. Amazon EC2
+. Amazon EBS
+. Amazon VPC
+
+Exemplo de segurança de gerenciamento pela AWS
+
+. AWS Lambda
+. Amazon RDS
+. AWS Elastic Beanstalk
+
+Exemplo de SaaS
+
+. AWS Trusted Advisor
+. AWS Shield
+. Amazon Chime
