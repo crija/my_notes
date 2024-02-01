@@ -65,4 +65,72 @@ Infraestrutura na Nuvem
 . Aumente e reduza verticalmente
 . Infraestrutura de autoatendimento
 
+Serviços e categoria de serviços da AWS
+
+Serviços fundamentais da AWS
+
+Os serviços nas categorias de computação, rede e armazenamento representam os serviços fundamentais da AWS.
+
+. Aplicativos: Desktops virtuais, colaboração e compartilhamento
+
+. Serviços de plataforma: Banco de dados, Análise, Serviços de aplicativos, Implementação e gerenciamento, Serviços móveis
+
+. Serviços básicos: Computação, Redes, Armazenamento
+
+. Infraestrutura: Regiões, Zonas de disponibilidade, Pontos de presença
+
+Categoria de serviço da AWS
+
+Principais
+
+. Gerenciamento de custos da AWS
+. Computação
+. Contêineres
+. Banco de Dados
+. Gerenciamento e governança
+. Redes e entrega de conteúdo
+
+Categoria de serviço de armazenamento
+
+. Amazon S3
+. Amazon EBS
+. Amazon EFS
+. Amazon Simple Storage Service Glacier
+
+Categoria de serviço de computação
+
+. Amazon EC2
+. Amazon EC2 Auto Scaling
+. AWS Elastic Beanstalk
+. AWS Lambda
+
+Categoria de serviços de contêineres
+
+. Amazon ECS
+. Amazon Elastic Container Registry
+. Amazon EKS
+. AWS Fargate
+
+Categoria de serviço de banco de dados
+
+. Amazon RDS
+. Amazon Aurora
+. Amazon Redshift
+. Amazon DynamoDB
+
+Categoria de serviço de redes e entrega de conteúdo
+
+. Amazon VPC
+. Elastic Load Balancing
+. Amazon CloudFront
+. AWS Transit Gateway
+. Amazon Route 53
+. AWS Direct Connect
+. AWS VPN
+
+Categoria de serviço de segurança, identidade e conformidade
+
+Categoria de serviço de gerenciamento de custos da AWS
+
+Categoria de gerenciamento e governança
 
