@@ -224,26 +224,26 @@ Responsabilidades da AWS: A AWS é responsável pola COMPUTAÇÃO, ARMAZENAMENTO
 . AWS Shield
 . Amazon Chime
 
-Amazon S3*
+# Amazon S3*
 
 A Amazon S3(Simple Storage Service) é um serviço de armazenamento em nuvem oferecido pela Aazon Web Services(AWS). Ele foi projetado para fornecer armazenamento escalável, durável e seguro para dados na internet.
 
-Armazenamento de Objetos:
+## Armazenamento de Objetos:
 - O S3 é projetado para armazenar e recuperar qualquer quantidade de dados a partir da internet, sendo particularmente adequado para armazenamento de objetos, como arquivos, imagens, vídeos, backups e outros tipos de dados não estruturados.
 
-Escalabilidade e Durabilidade:
+## Escalabilidade e Durabilidade:
 - O S3 é altamente escalável, permitindo que os usuários armazenam grandes quantidades de dados. Além disso, ele ofecerece durabilidade elevada, replicando automaticamente os dados entre múltiplos locais em uma região da AWS.
 
-Acesso via HTTP/ HTTPS:
+## Acesso via HTTP/ HTTPS:
 - Os objetos armazenados no Amazon S3 são acessíveis via HTTP ou HTTPS, facilitando a integração com aplicativos da web e permitindo o acesso fácil aos dados armazenados.
 
-Modelo de Preços Pay-as-You-Go:
+## Modelo de Preços Pay-as-You-Go:
 - O modelo de preços do S3 é baseado no princípio 'pague conforme o uso', o que significa que os usuários pagam apenas pelos recursos de armazenamento e tranferência de dados que consomem.
 
-Controle de Acesso e Segurança:
+## Controle de Acesso e Segurança:
 - O Amazon S3 fornece recursos avançados de controle de acesso, permitindo que os usuários configurem políticas de controle de acesso para seus dados. Além disso, a comunicação com o S3 pode ser criptografada para garantir a segurança dos dados durante a transferência.
 
-Integração com Outros Serviços AWS:
+## Integração com Outros Serviços AWS:
 - O S3 pode ser facilmente integrado a outros serviços da AWS, como AWS Lambda, Amazon CloudFront, Amazon RDS, e muitos outros, permitindo a contrução de soluções mais complexas e abrangentes.
 
 Em resumo, o Amazon S3 é uma solução flexível e confiável para armazenamento em nuvem, atendendo às necessidades de empresas e desenvolvedores que precisam armazenar, acessar e recuperar dados de maneira eficiente e segura.
