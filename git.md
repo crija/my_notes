@@ -15,3 +15,7 @@ Alguns comandos que possuo conhecimento:
 - git diff: Mostra as alterações realizadas no códigos
 - git restore (nome do arquivo): Desfazer as modificações que foram feitas
 - git log: Mostra o histórico dos commits
+
+Resolvendo um conflito
+
+[imagem](Capturar_vscodium_20240208145337.ddf)
