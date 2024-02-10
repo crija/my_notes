@@ -18,7 +18,7 @@ Alguns comandos que possuo conhecimento:
 
 Resolvendo um conflito
 
-Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perdas.
+Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perdas de trabalho e tempo.
 
 Identificar o problema:
 
