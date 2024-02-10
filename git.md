@@ -18,7 +18,7 @@ Alguns comandos que possuo conhecimento:
 
 Resolvendo um conflito
 
-Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git.
+Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perda de um trabalho importante.
 
 Identificar o problema:
 
@@ -35,13 +35,13 @@ Para não resultar em um conflito
 3. fazer alteração no repositório local;
 4. subir para repositório remoto
 
-[Imagem de exemplo de conflito](Capturar_vscodium_20240208145337.ddf)
+![Capturar_vscodium_20240208145337](https://github.com/crija/my_notes/assets/122110292/0b329724-30c8-4e09-9930-1f83bfb13141)
 
 Nessa imagem podemos identificar o erro pelo hash(identificador do commit) dos commits listados, onde o último commit da direita(local) e o último commit da esquerda(servidor) estão com os hashs diferentes.
 
 Resolver o problema:
 
-. git fetch: Atualiza as referencias remotas no repositório local, possibilitando a comparação do repositório remoto com o repositório local. Esse comando é muito importante para a identificação do erro.
+. git fetch: Atualiza as referências remotas no repositório local, possibilitando a comparação do repositório remoto com o repositório local. Esse comando é muito importante para a identificação do erro.
 
 . git log origin/main: Lista todos os commits do repositório remoto.
 
@@ -49,11 +49,11 @@ Resolver o problema:
 
 . git rebase origin/main: Reorganiza o histórico dos commits da branch local com base na branch remota. O git reoganiza os commits do mais velho para o mais novo, trazendo uma sequência de commits mais linear.
 
-. git push
+. git push: Enviar o commit para o repositírio remoto.
 
 Evitar problema:
 
-Para que problemas como esse não ocorram é impotante que os repositórios estejam sempre alinhados. É recomendado escolher um dos dois repositórios para fazer as alterações, mas quando é necessário utilizar os dois, cetifique-se que o seu repositório local esteja alinhado com o repositório remoto, para isso você precisa rodar o git pull antes de fazer qualquer alteração na máquina local, é interessante fazer commits pequenos e frequentes para reduzir a complexidade e ser mais fácio de resolver algum problema que possa vir acontecer.
+Para que problemas como esse não ocorram é impotante que os repositórios estejam sempre alinhados. É recomendado escolher um dos dois repositórios para fazer as alterações, mas quando é necessário utilizar os dois, cetifique-se que o repositório local esteja alinhado com o repositório remoto, para isso você precisa rodar o git pull antes de fazer qualquer alteração na máquina local. É interessante fazer commits pequenos e frequentes para reduzir a complexidade e ser mais fácio de resolver algum problema futuro.
 
 Em caso de trabalho em equipe, é fundamental manter a equipe informada em caso de altereções.
 
