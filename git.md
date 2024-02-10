@@ -18,7 +18,7 @@ Alguns comandos que possuo conhecimento:
 
 Resolvendo um conflito
 
-Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perda de um trabalho importante.
+Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perdas.
 
 Identificar o problema:
 
@@ -53,7 +53,7 @@ Resolver o problema:
 
 Evitar problema:
 
-Para que problemas como esse não ocorram é impotante que os repositórios estejam sempre alinhados. É recomendado escolher um dos dois repositórios para fazer as alterações, mas quando é necessário utilizar os dois, cetifique-se que o repositório local esteja alinhado com o repositório remoto, para isso você precisa rodar o git pull antes de fazer qualquer alteração na máquina local. É interessante fazer commits pequenos e frequentes para reduzir a complexidade e ser mais fácio de resolver algum problema futuro.
+Para que problemas como esse não ocorram é impotante que os repositórios estejam sempre alinhados. É recomendado escolher um dos dois repositórios para fazer as alterações, mas quando é necessário utilizar os dois, cetifique-se que o repositório local esteja alinhado com o repositório remoto, para isso você precisa rodar o git pull antes de fazer qualquer alteração na máquina local. É interessante fazer commits pequenos e frequentes para reduzir a complexidade e ser mais fácil de resolver algum problema futuro.
 
 Em caso de trabalho em equipe, é fundamental manter a equipe informada em caso de altereções.
 
