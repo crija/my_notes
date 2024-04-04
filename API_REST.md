@@ -14,33 +14,25 @@ Componentes da Comunicação HTTP
 
 Arquitetura de uma API
 
-- A API é uma interface que fica do lado do servidor. 
+- A API é uma interface que fica do lado do servidor.
 - Recebe os dados, pedidos, informação e devolver o mínimo de exposição das regras internas. Se deu tudo certo ou aconteceu algum erro e qual erro.
 - Uma API tem que se comportar de forma competente, contectando os usúarios e a regra de negócio.
-- Para uma arquitetura de API funcior bem precisamos saber quais recuros nós vamos usar, quais dados eu vou entregar e em qual formato, como a segurança vai ser implementada, quanto tempo demora para o retorno dos dados
+- Para uma arquitetura de API funcior bem precisamos saber quais recuros nós vamos usar, quais dados eu vou entregar e em qual formato, como a segurança vai ser implementada, quanto tempo demora para o retorno dos dados.
 - É importante fazer a arquitetura de uma API antes de fazer o códigos para não ocorrer problemas como falta de segurança, falta de eficiência...
-- Ter uma estrutura de rotas, onde vamos encontrar os dados, cadastrar...
 
 O que é REST?
 
 - É um estilo de arquitetura de API, um conjunto de ideias vão definir como um recurso vai ser acessado na rede
 - Da ao desenvolvedor a posibilidade de pensar apenas na implementação sem precisar pensar na interface.
 
-Métodos de acesso e Método GET
+Formas de se comunicar com uma API. Usa-se a bibliotéca request para acessar
 
-- GET é para obter os dados de uma API. Requisição e Resposta
-- POST é usado para postar dados
-- PUT / PATCH é usado para atualizar dados
-- DELETE usado para apagar um dado
+- GET: Buscar informações em uma API
+- POST: Criar informações
+- PATCH: É usado para atualizar parte de algo
+- PUT: Usado para enviar dados no intuíto de atualizar algo por completo
+- DELETE: Excluir informação
 
-Alterando dados com métodos POST, PUT e DELETE
-
-- GET é usado para buscar algo 
-- POST é usado para criar algo
-- PUT é usado para enviar dados no intuíto de atualizar algo por completo
-- PATCH é usado para atualizar parte de algo
-- DELETE é usado para deletar algo
-  
 Obs: Os únicos métodos que não tem corpo são: GET e DELETE.
 
 Status Code, Altenticação e Cookies
