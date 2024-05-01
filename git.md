@@ -10,8 +10,9 @@ Git é um sistema de versionamento de códigos criado em 2005 e seu principal pr
 Ignorar arquivos:
 - .gitignore
 
-Alguns comandos que possuo conhecimento:
-
+Alguns comandos que tenho prática:
+- ```git init```: Inicializa um repositório
+- ```git clone```: Clona um repositório já existente
 - ```git status```: Mostra os arquivos que ainda não foram enviados para o servidor
 - ```git diff```: Mostra as alterações realizadas no códigos
 - ```git add```: Adicionar na staged
@@ -20,8 +21,9 @@ Alguns comandos que possuo conhecimento:
 - ```git restore 'nome do arquivo'```: Desfaz a última modificação do arquivo 
 - ```git restore .```: Desfaz a última modificação de todos os arquivos do repositório
 - ```git log```: Mostra o histórico dos commits
-- ```git init```: Inicializa um repositório
-- ```git clone```: Clona um repositório já existente
+- ```git fetch```: Atualiza o repositório remoto
+- ```git pull``: Trás alterações feitas no repositório remoto para o repositório local
+
 
 Alterando um repositório:
 - github/repositório que desejo clonar/fork
