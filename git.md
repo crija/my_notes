@@ -12,14 +12,15 @@ Ignorar arquivos:
 
 Alguns comandos que possuo conhecimento:
 
-- git status: Mostra os arquivos que ainda não foram enviados para o servidor
-- git add: Adicionar os arquivos que deseja enviar para o servidor
-- git commit -m: Descrever o(os) arquivos adicionado(os) antes de enviar para o servidor
-- git diff: Mostra as alterações realizadas no códigos
-- git restore (nome do arquivo): Desfazer as modificações que foram feitas
-- git log: Mostra o histórico dos commits
-- git init: Inicializa um repositório
-- git clone: Clona um repositório já existente
+- ```git status```: Mostra os arquivos que ainda não foram enviados para o servidor
+- ```git add```: Adicionar na staged
+- ```git restore 'nome do arquivo'```: Desfaz a última modificação do arquivo 
+- ```git restore .```: Desfaz a última modificação de todos os arquivos do repositório
+- ```git commit -m```: Descrever o(os) arquivos adicionado(os) antes de enviar para o servidor
+- ```git diff```: Mostra as alterações realizadas no códigos
+- ```git log```: Mostra o histórico dos commits
+- ```git init```: Inicializa um repositório
+- ```git clone```: Clona um repositório já existente
 
 Alterando um repositório:
 - github/repositório que desejo clonar/fork
