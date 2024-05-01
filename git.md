@@ -21,6 +21,15 @@ Alguns comandos que possuo conhecimento:
 - git init: Inicializa um repositório
 - git clone: Clona um repositório já existente
 
+Alterando um repositório:
+- github/repositório que desejo clonar/fork
+- github/repositório que desejo clonar/copiar link
+- terminal linux/```git clone 'link_repositório```
+- fazer alteração no código
+- ```git add 'arquivo'```
+- ```git commit -m 'descrição da alteração```
+- ```git pull HEAD```
+
 Resolvendo um conflito
 
 Quando tentamos subir um commit da máquina local para o repositório remoto, pode acontecer um conflito. Esse tipo de problema é muito comum em ambiente de desenvolvimento, onde fazemos versionamentos de códigos usando o git. Saber resolver esse tipo de erro é crucial para não resultar em perdas de trabalho e tempo.
