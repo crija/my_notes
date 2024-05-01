@@ -19,6 +19,7 @@ Alguns comandos que possuo conhecimento:
 - git restore (nome do arquivo): Desfazer as modificações que foram feitas
 - git log: Mostra o histórico dos commits
 - git init: Inicializa um repositório
+- git clone: Clona um repositório já existente
 
 Resolvendo um conflito
 
