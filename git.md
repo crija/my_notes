@@ -13,11 +13,12 @@ Ignorar arquivos:
 Alguns comandos que possuo conhecimento:
 
 - ```git status```: Mostra os arquivos que ainda não foram enviados para o servidor
+- ```git diff```: Mostra as alterações realizadas no códigos
 - ```git add```: Adicionar na staged
+- ```git commit -m```: Descrever o(os) arquivos adicionado(os) antes de enviar para o servidor
+- ```git push```: Subir alteração para o repositório remoto 
 - ```git restore 'nome do arquivo'```: Desfaz a última modificação do arquivo 
 - ```git restore .```: Desfaz a última modificação de todos os arquivos do repositório
-- ```git commit -m```: Descrever o(os) arquivos adicionado(os) antes de enviar para o servidor
-- ```git diff```: Mostra as alterações realizadas no códigos
 - ```git log```: Mostra o histórico dos commits
 - ```git init```: Inicializa um repositório
 - ```git clone```: Clona um repositório já existente
