@@ -32,7 +32,12 @@ Alterando um repositório:
 - fazer alteração no código
 - ```git add 'arquivo'```
 - ```git commit -m 'descrição da alteração```
-- ```git pull HEAD```
+- ```git push origin HEAD```
+
+Abrindo um pr:
+- ```git checkout 'nome da branch'```
+- comita como se estivesse na branch principal
+- quando estiver pronto: ```git push origin HEAD```
 
 Resolvendo um conflito
 
